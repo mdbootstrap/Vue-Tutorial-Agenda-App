@@ -40,8 +40,8 @@
           </mdb-row>
         </h1>
         <p>
-          Don't forget your sunglasses. Today will dry and sunny, becoming
-          warm in the afternoon with temperatures of between 20 and 25
+          Don't forget your sunglasses. Today will be dry and sunny, becoming
+          warm in the afternoon with temperatures between 20 and 25
           degrees.
         </p>
       </mdb-col>

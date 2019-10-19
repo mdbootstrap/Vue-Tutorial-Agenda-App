@@ -22,7 +22,7 @@
       <mdb-col col="3">
         <h3 class="text-uppercase my-3">Schedule</h3>
         <h6 class="my-3">
-          It's going to be busy that today. You have
+          It's going to be busy today. You have
           <b>{{events.length}} events</b> today.
         </h6>
         <h1 class="my-3">
@@ -40,7 +40,7 @@
           </mdb-row>
         </h1>
         <p>
-          Don't forget your sunglasses. Today will dry and sunny, becoming
+          Don't forget your sunglasses. Today will be dry and sunny, becoming
           warm in the afternoon with temperatures of between 20 and 25
           degrees.
         </p>
